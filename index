@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Asya - malenkaya piska>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,7 @@
             background-color: #007acc;
             padding: 20px;
             text-align: center;
-            color: white;
+            color: red;
         }
         main {
             padding: 20px;
